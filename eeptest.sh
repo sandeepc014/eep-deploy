@@ -13,5 +13,6 @@ echo ""
 echo ""
 
 echo "Here the latest 5 commits from the master branch"
-
+echo ""
+echo ""
 git log -n2
