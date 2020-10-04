@@ -2,6 +2,16 @@
 
 cd /var/www/html/iimb.eeptest.linkstreet.co/iimb-eep
 
+echo ""
+echo ""
+
+echo "Pulling code from master"
+
 git pull origin master
+
+echo ""
+echo ""
+
+echo "Here the latest 5 commits from the master branch"
 
 git log -n2
