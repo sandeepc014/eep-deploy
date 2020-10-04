@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd var/www/webroots/iimb-eep.linkstreet.in/
+cd /var/www/webroots/iimb-eep.linkstreet.in/
 
 git pull origin master
 
