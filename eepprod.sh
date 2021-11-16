@@ -12,7 +12,7 @@ sudo git pull origin enhancement/vtiger-integration
 echo ""
 echo ""
 
-echo "Here the latest 5 commits from master branch"
+echo "Here the latest 5 commits from enhancement/vtiger-integration branch"
 echo ""
 echo ""
 git log -n5
