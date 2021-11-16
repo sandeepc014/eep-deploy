@@ -7,7 +7,7 @@ echo ""
 
 echo "Pulling code from master"
 
-git pull origin master
+git pull origin enhancement/vtiger-integration
 
 echo ""
 echo ""
