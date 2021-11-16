@@ -7,7 +7,7 @@ echo ""
 
 echo "Pulling code from enhancement/vtiger-integration branch"
 
-git pull origin enhancement/vtiger-integration
+sudo git pull origin enhancement/vtiger-integration
 
 echo ""
 echo ""
