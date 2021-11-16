@@ -5,7 +5,7 @@ cd /var/www/html/iimb.eeptest.linkstreet.co/iimb-eep
 echo ""
 echo ""
 
-echo "Pulling code from master"
+echo "Pulling code from enhancement/vtiger-integration branch"
 
 git pull origin enhancement/vtiger-integration
 
